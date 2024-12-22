@@ -7,5 +7,5 @@ const server = http.createServer((req, res) => {
         res.end('ABOUT pg')
     }
 });
-server.listen(2000);
+server.listen(5050); // localhost:5050
 

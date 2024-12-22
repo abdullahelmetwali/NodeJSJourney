@@ -1,0 +1,6 @@
+{
+  "name": "nodejsjourney",
+  "dependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
