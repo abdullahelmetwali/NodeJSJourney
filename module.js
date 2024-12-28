@@ -3,7 +3,7 @@ const sayHi = (val) => {
 }
 
 module.exports = { sayHi } // main module export func (created in module wrapper)
-// exports = { sayHi } // this is a reference ( اختصار ) to module.exports
+// exports = { sayHi } => this is a reference ( اختصار ) to module.exports
 // export default sayHi
 
 /*
