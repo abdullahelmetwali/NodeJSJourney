@@ -1,0 +1,2 @@
+Hi I'm the first line created by stream
+I'm the chunk : Hello I'm the input, here for streaming

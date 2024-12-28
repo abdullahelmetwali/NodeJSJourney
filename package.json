@@ -1,6 +1,10 @@
 {
   "name": "nodejsjourney",
-  "dependencies": {
+  "scripts": {
+    "start": "node app.js",
+    "w": "nodemon app.js"
+  },
+  "devDependencies": {
     "nodemon": "^3.1.9"
   }
 }
